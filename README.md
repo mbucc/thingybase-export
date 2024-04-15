@@ -9,6 +9,7 @@ Usage
 
     export THINGYBASE_KEY=<your API key, created under profile>
     make
+    open report.html
 
 
 Dependencies
