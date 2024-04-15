@@ -3,7 +3,7 @@
 #
 #	<a href="/items/<item-id>" class="link">02 Books (lq)</a>
 #
-# Sorts by filename (numerically) and get's HTML if it has not been downloaded.
+# Numerically sort by parent container.  Get HTML if needed.
 #
 
 source ./scripts/_lib.sh
